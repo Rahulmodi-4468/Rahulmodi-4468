@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahulmodi-4468
-- 👀 I’m interested in Java Fullstack Development
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Advanced Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahulmodi.204@gmail.com
