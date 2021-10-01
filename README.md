@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahulmodi-4468
-- 👀Become a Software Engineer at Ishitva Robotics
-- 🌱 I’m currently learning Advanced Java 
+- 👀Become a Full Stack Developer
+- 🌱 I’m currently learning ReacJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahulmodi.204@gmail.com
 
