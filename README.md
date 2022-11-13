@@ -8,7 +8,7 @@
 
        Back-End Development: JS,JAVA,PYTHON
 - 👀 Waiting for opportunity
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently creating React + SpringBoot project 
 - 📫 How to reach me RahulModi4468 on twitter
 
 <!---
