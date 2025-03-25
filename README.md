@@ -10,13 +10,13 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a software engineer with 2.8 years of industry experience, specializing in Liferay Portal customization and development. My expertise spans across Java technologies, web development, database management, and build tools & servers. I am committed to delivering high-quality software solutions with a strong focus on performance and reliability.
+I am a software engineer with 3+ years of industry experience, specializing in SpringBoot and Liferay Portal customization and development. My expertise spans across Java technologies, web development, database management, and build tools & servers. I am committed to delivering high-quality software solutions with a strong focus on performance and reliability.
 
 ## 🔧 Skills
 
+- **Java Technologies**: SpringBoot, Spring, Servlets, JSP, Hibernate, J2EE, JPA.
 - **Liferay 7.x**: Liferay Portal customization and development.
-- **Java Technologies**: Servlets, JSP, Hibernate, J2EE, JPA.
-- **Web Development**: JavaScript, HTML, CSS, Bootstrap.
+- **Web Development**: JavaScript, HTML, CSS, Bootstrap, ReactJS
 - **Database Management**: MySQL, PostgreSQL, Oracle.
 - **Build Tools & Servers**: Apache Web Server, Apache Tomcat, Maven, Gradle.
 - **Docker**: Used for local development.
